@@ -1,5 +1,5 @@
 ```console
-foo@bar:~$ neofetch
+mysteryio@arch:~$ neofetch
                    -`
                   .o+`
                  `ooo/
@@ -18,5 +18,5 @@ foo@bar:~$ neofetch
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
- .`                                 `
+   `                                `
 ```
